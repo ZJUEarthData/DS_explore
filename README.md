@@ -7,3 +7,10 @@
 + 代码：ipynb or py格式，建议以ipynb为主
 + readme.txt：姓名/代码功能
 
+目前已有模型代码：
++ 线性回归+多项式回归
++ 降维
++ 集成学习
++ 聚类（KMeans、AP、GaussianMixture）
++ 分层抽样
+
