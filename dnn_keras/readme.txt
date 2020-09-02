@@ -11,7 +11,7 @@ Time: 2020/08/31
 numpy、pandas、matplolib、sklearn、os、tensorflow
 
 实现功能（主要以regression为模板，classification可照搬）：
-1.使用Sequential API建立线性结构的DNN
+1.使用Sequential API建立简单全连接的DNN
 2.使用Funtional API建立二输入的Wide$Deep DNN、二输出的正则化Wide&Deep DNN
 3.利用Callback机制保存训练过程中最优模型
 4.利用早期停止法防止过拟合
