@@ -16,6 +16,7 @@ numpy、pandas、matplolib、sklearn、os、tensorflow
 3.利用Callback机制保存训练过程中最优模型
 4.利用早期停止法防止过拟合
 5.使用Subclassing API建立动态的二输入、二输出的正则化Wide&Deep DNN
+6.使用RandomizedSearchCV对寻找最优超参数
 
 数据集：
 【Fe_test_regression.xlsx】：数据集中的[Fe3+/Fetot]一列为标签值
