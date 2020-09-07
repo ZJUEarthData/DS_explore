@@ -13,7 +13,7 @@ numpy、pandas、matplolib、sklearn
 实现功能：
 1.基于聚类结果的分层抽样（以kmeans为例）
 2.进行纯随机抽样和分层抽样对比（以LogisticRegression构造的多元分类器为例）
-3.构造一个基于分层抽样的交叉验证的类（以SGDClassifier构造的多元分类器为例）
+3.构造一个基于分层抽样的交叉验证的类（以SGDClassifier构造的多元分类器和LinearRegression构造的线性回归器为例）
 
 数据集：
 【Test_2.xlsx】：数据集中的TRUE VALUE一列为实际类别信息
