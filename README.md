@@ -1,5 +1,21 @@
 # New Algorithm's Threasury
 
+`Tasks`: focuse on exploring new algorithms and their applications, pay attention to the portability and interpretability of code, and do need to package in advance
+
+`format of submitting`: 
++ images file: store pictures obtained from code running or pictures for external loading 
++ code: with the suffix of ipynb or py, ipynb is highly recommended
++ readme.txt: author and the functions of codes are needed
+
+Current Codes:
++ Linear and Polylinear Regression
++ Dimensionality Reduction
++ Ensemble Learning
++ Clustering (KMeans、AP、GaussianMixture)
++ Stratified Sampling
++ Deep Neutral Network 
+
+
 `任务`：以探索新算法及其应用为主，注重代码的可移植性和可解释性，不需要提前封装
 
 `上传格式`
