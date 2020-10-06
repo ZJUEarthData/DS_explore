@@ -11,6 +11,8 @@ Time: 2020/10/06
 
 
 
+
+
 **使用库：**
 numpy、pandas、matplolib、sklearn、os、tensorflow2.0+
 
@@ -21,6 +23,9 @@ numpy、pandas、matplolib、sklearn、os、tensorflow2.0+
 ```
 【hydrogen_test_classification.xlsx】：数据集中[TRUE VALUE]一列为标签值
 ```
+
+**代码功能：**
+使用卷积神经网络CNN对5。5的数据进行二分类
 
 
 
