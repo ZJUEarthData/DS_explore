@@ -29,7 +29,7 @@ numpy、pandas、matplolib、sklearn、os、tensorflow2.0+
 ```
 
 **代码功能：**
-使用卷积神经网络CNN对5。5的数据进行二分类
+使用卷积神经网络CNN对5.5的数据进行二分类
 
 
 
