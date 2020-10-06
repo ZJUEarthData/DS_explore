@@ -46,7 +46,7 @@ numpy、pandas、matplolib、sklearn、os、tensorflow2.0+
 
 
 
-![result](F:\UNIVERSITY STUDY\new-algorithm-master\cnn_tensorflow\result.png)
+![result](https://github.com/Geeksongs/new-algorithm/blob/master/cnn_tensorflow/result.png)
 
 
 
