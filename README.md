@@ -1,4 +1,4 @@
-# New Algorithm's Threasury
+# ML Threasury
 
 `Tasks`: focuse on exploring new algorithms and their applications, pay attention to the portability and interpretability of code, and do need to package in advance
 
