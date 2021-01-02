@@ -1,6 +1,6 @@
 # ML Threasury
 
-`Tasks`: focuse on exploring new algorithms and their applications, pay attention to the portability and interpretability of code, and do need to package in advance
+`Tasks`: focuse on exploring new algorithms and their applications, pay attention to the portability and interpretability of code, and do not need to package in advance
 
 `format of submitting`: 
 + images file: store pictures obtained from code running or pictures for external loading 
