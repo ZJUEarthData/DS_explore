@@ -1,6 +1,6 @@
 ********************************************** 
  
-Version: Python 3.7.6 
+Version: Python 3.9.0 
 IDE: Jupyter Notebook
 @author: 何灿 Sany
 Time: 2020/07/17
@@ -20,8 +20,8 @@ numpy、pandas、matplolib、sklearn
 7.实现基于分类结果的分层抽样
 
 数据集：
-【Test_2.xlsx】：数据集中的TRUE VALUE一列为实际类别信息
-【test2_result.csv】：保存有聚类算法结果的新数据集
+【data.xlsx】：数据集中的TRUE VALUE一列为实际类别信息
+【data_after_clustering.csv】：经过【kmeans_ap_clustering.ipynb】聚类获得的，含聚类结果的数据集
 
 
 评分标准(具体使用可查阅相关资料)：
@@ -58,7 +58,8 @@ n_components:可调，降到的维度
 根据实际需要，选取聚类的评分标准,如对于KMeans而言，主要看轮廓系数和inertia
 
 注意：
-【Test_2.xlsx】、【kmeans_ap_clustering.ipynb】需位于同一目录下
+1.【data.xlsx】、【kmeans_ap_clustering.ipynb】需位于同一目录下
+2.【data.xlsx】与【data_after_clustering.csv】是同一份数据，区别在于后者含聚类结果
 
 *********************************************
 
