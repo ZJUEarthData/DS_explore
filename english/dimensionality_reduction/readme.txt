@@ -4,6 +4,8 @@ Version: Python 3.7.6
 IDE: Jupyter Notebook
 @author: 何灿 Sany
 Time: 2020/07/23
+Email: sanyhew1097618435@163.com
+Related Video: https://www.youtube.com/watch?v=J9Do8FD_uyA
 
 **********************************************
 
@@ -24,7 +26,7 @@ Function realized:
 
 
 Data set: 
-"Test_2.xlsx": the [TRUE VALUE] column in the data set is Actual category information
+"dataset.xlsx": the [TRUE VALUE] column in the data set is Actual category information
 
 Scoring criteria (for specific use, please refer to relevant information): 
  - 1.By the squared distance between the reconstructed data and the original data
