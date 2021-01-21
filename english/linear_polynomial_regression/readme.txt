@@ -4,6 +4,8 @@ Version: Python 3.7.6
 IDE: Jupyter Notebook
 @author: 何灿 Sany
 Time: 2020/07/08
+Email: sanyhew1097618435@163.com
+Related Video: https://www.youtube.com/watch?v=p9ZzyTvqr9A&t=8s
 
 **********************************************
 
