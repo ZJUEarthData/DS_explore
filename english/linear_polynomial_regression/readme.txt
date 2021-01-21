@@ -14,8 +14,9 @@ Realization:
 4. Regularized polynomial regression model  (analytical inference)
   Regularization is achieved with elastic network (a combination of Ridge regression and Lasso regression) 
 5. Evaluation of the three models
-6. The learning curve of the three models
-7. Early stopping
+6. Fine-tune model
+7. The learning curve of the three models
+8. Early stopping to prevent overfitting
 
 Note:
 Place 【data.xlsx】, 【linear_polynomial_reg.ipynb】 in same working directory.
