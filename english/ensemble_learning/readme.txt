@@ -6,7 +6,8 @@ IDE: Jupyter Notebook
 Time: 2020/08/07
 Email: sanyhew1097618435@163.com
 Related Video:
-
+（一）https://www.youtube.com/watch?v=tvmkhTwlhe8&list=PLy8hNsI55lviQ9sYJ2TbuNKV9nduzx7Rh&index=2
+（二）https://www.youtube.com/watch?v=l8t3RLrw8O4&list=PLy8hNsI55lviQ9sYJ2TbuNKV9nduzx7Rh
 **********************************************
 
 Package:
