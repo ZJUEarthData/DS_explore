@@ -14,7 +14,7 @@ Current Codes:
 + Clustering (KMeans、AP、GaussianMixture)
 + Stratified Sampling
 + Deep Neutral Network 
-
++ Support Vector Machine
 
 `任务`：以探索新算法及其应用为主，注重代码的可移植性和可解释性，不需要提前封装
 
