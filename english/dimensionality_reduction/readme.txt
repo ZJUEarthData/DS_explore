@@ -13,7 +13,7 @@ Library used:
 numpy、pandas、matplolib、sklearn
 
 Function realized: 
- - 1.Ordinary PCA (linear projection): Principal component axis expression of feature space, Squared distance of reconstructed data and original data, Two-dimensional visualization, componential biplot.
+ - 1.Ordinary PCA (linear projection): Principal component axis expression of feature space, Squared distance of reconstructed data and original data, Two-dimensional visualization, componential biplot, componential plot in 3d
 
  - 2.Kernel PCA (non-linear projection): four kernel methods (linear, rbf, poly, sigmoid), Squared distance, Two-dimensional visualization.
 
